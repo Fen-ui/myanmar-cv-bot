@@ -1,8 +1,8 @@
 {
-  "bot_token": "YOUR_BOT_TOKEN_FROM_BOTFATHER",
-  "openrouter_key": "YOUR_OPENROUTER_KEY",
+  "bot_token": "8687864359:AAFUlCNIRYPtkH7HcwRs2rr52S99cjTsqH8",
+  "openrouter_key": "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",
   "db_path": "cvbot.db",
   "output_dir": "cv_output",
   "default_template": "modern",
-  "free_limit_per_user": 3
+  "free_limit_per_user": 5
 }
